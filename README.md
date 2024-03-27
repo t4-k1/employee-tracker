@@ -40,3 +40,7 @@ Once the application is running, follow the on-screen prompts to perform various
 - Add new departments, roles, and employees.
 - Update an employee's role.
 - Simple command-line interface for easy interaction.
+
+## Walkthrough Video
+
+[Click Here](https://drive.google.com/file/d/1mXw5UCcrHlXZd1U8CcjKuT-2Y1X-eIkr/view?usp=sharing) to watch a video walkthrough of the app!
